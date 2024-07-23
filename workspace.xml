@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc209340-1c19-44b4-9edc-7217b4a2fb6e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2j5jlVNqYvrhVbtwdLn0mDsVIVZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.CartTest.verifyProductCheckout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTest.verifyProductDeleteBtn.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ForgotPasswordTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ForgotPasswordTest.verifyForgotPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ForgotPasswordTest.verifyForgotPasswordWitBlankInput.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ForgotPasswordTest.verifyForgotPasswordWithInValidEmailId.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ForgotPasswordTest.verifyForgotPasswordWithValidEmailId.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifyCafeFinder.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifyCafeFinderTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifyDiscountOnProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifyHomepage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifyPopUpAd.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomeTest.verifySearchTextBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LogOutTest.verifyLogOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.dragAndDropLogo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyCafeFinderTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyLogOutButtonIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyLoginWithBlankUsernameAndBlankPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyLoginWithInvalidUsernameAnValidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyLoginWithInvalidUsernameAndInvalidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyLoginWithValidUsernameAnInvalidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyMoveToShopTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyloginpagewithvalidusernameandavalidpassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.verifyLogOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.verifyLogOutButtonIsDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.verifyMoveToShopTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.verifyOrders.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyAccountTest.verifyOrdersWithEmptyCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OnBoardingTest.verifyMoveToShopTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OnBoardingTest.verifyNewUserRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PartnerTest.verifyWholeSalePage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PlantsTest.verifyWoolWorthsComp.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTest.verifyCamposCapsulesSubscription.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProductTest.verifySuperiorCoffeeBundle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegistrationTest.verifyNewUserRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ShopTest.verifyMoveToShopTextBar.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SubscriptionTest.verifyCamposCapsulesSubscription.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WholeSaleTest.verifyWholeSalePage.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/AutomationProject_2024/src/main/resources/productfile&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/AutomationProject_2024/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\AutomationProject_2024\src\main\resources\productfile" />
+      <recent name="C:\Users\Dell\IdeaProjects\AutomationProject_2024\src\main\resources\receipt" />
+      <recent name="C:\Users\Dell\IdeaProjects\AutomationProject_2024\src\main\resources\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PlantsTest.verifyWoolWorthsComp">
+    <configuration name="HomeTest.verifyCafeFinder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.HomeTest" />
+      <option name="METHOD_NAME" value="verifyCafeFinder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.verifyPopUpAd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.HomeTest" />
+      <option name="METHOD_NAME" value="verifyPopUpAd" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountTest.verifyLogOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.MyAccountTest" />
+      <option name="METHOD_NAME" value="verifyLogOut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnBoardingTest.verifyNewUserRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.OnBoardingTest" />
+      <option name="METHOD_NAME" value="verifyNewUserRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlantsTest.verifyWoolWorthsComp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProject_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testclasses" />
+      <option name="MAIN_CLASS_NAME" value="testclasses.PlantsTest" />
+      <option name="METHOD_NAME" value="verifyWoolWorthsComp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PlantsTest.verifyWoolWorthsComp" />
+        <item itemvalue="TestNG.MyAccountTest.verifyLogOut" />
+        <item itemvalue="TestNG.HomeTest.verifyPopUpAd" />
+        <item itemvalue="TestNG.HomeTest.verifyCafeFinder" />
+        <item itemvalue="TestNG.OnBoardingTest.verifyNewUserRegistration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc209340-1c19-44b4-9edc-7217b4a2fb6e" name="Changes" comment="" />
+      <created>1720683986367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720683986367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
